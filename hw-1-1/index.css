@@ -1,0 +1,8 @@
+body {padding:10px}
+h1 span {color: cornflowerblue;}
+p {color: gray;}
+form { 
+    display:flex;flex-direction: row;margin-top: 40px;}
+.leftbutton {padding:12px 12px;margin:4px;border:none;background-color: cornflowerblue;color:white;}
+.rightbutton {padding:12px 12px;margin:4px;border:none;background-color:whitesmoke;color:cornflowerblue;}
+form button img {margin:2px;height:10px;}
