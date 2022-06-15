@@ -1,0 +1,14 @@
+body {padding:8px 20px;}
+body h1 span {color:blue;}
+p {color:gray;
+   margin:8px;
+   font-size:large;
+   line-height: 32px;}
+ul {list-style: none;
+    display: flex;
+    padding:8px 0px;
+    font-size:larger ;
+    margin:20px 0px;}
+ul li {margin:16px;}
+ul li span {color:gray;
+            font-size:large}
